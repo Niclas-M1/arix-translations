@@ -14,3 +14,6 @@
 
 **[Spanish](https://github.com/SrJuanLo/arix-translations)** -
 *credits:* SrJuanLo
+
+**[German](https://github.com/Niclas-M1/arix-translations)** -
+*credits:* Niclas_M
