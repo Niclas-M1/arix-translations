@@ -1,21 +1,21 @@
 <?php
 
 return [
-    'settings' => 'Settings',
+    'settings' => 'Einstellungen',
 
     'sftp' => [
-        'title' => 'SFTP Details',
-        'server-address' => 'Server Address',
-        'username' => 'Username',
-        'description' => 'Your SFTP password is the same as the password you use to access this panel.',
-        'launch-sftp' => 'Launch SFTP',
+        'title' => 'SFTP Informationen',
+        'server-address' => 'Server Adresse',
+        'username' => 'Nutzername',
+        'description' => 'Dein SFTP-Passwort ist dasselbe wie das Passwort, das du für den Zugriff auf dieses Panel verwendest.',
+        'launch-sftp' => 'SFTP starten',
     ],
 
     'rename' => [
-        'title' => 'Change Server Details',
-        'server-name' => 'Server Name',
-        'server-description' => 'Server Description',
-        'save' => 'Save',
+        'title' => 'Serverinformationen bearbeiten',
+        'server-name' => 'Servername',
+        'server-description' => 'Serverbeschreibung',
+        'save' => 'speichern',
     ],
 
     'debug' => [
@@ -25,13 +25,13 @@ return [
     ],
 
     'reinstall' => [
-        'title' => 'Reinstall Server',
-        'reinstall-started' => 'Your server has begun the reinstallation process.',
-        'confirm-reinstallation' => 'Confirm server reinstallation',
-        'yes-reinstall' => 'Yes, reinstall server',
-        'are-you-sure' => 'Your server will be stopped and some files may be deleted or modified during this process, are you sure you wish to continue?',
-        'desc-1' => 'Reinstalling your server will stop it, and then re-run the installation script that initially set it up.',
-        'desc-2' => 'Some files may be deleted or modified during this process, please back up your data before continuing.',
-        'reinstall-server' => 'Reinstall Server',
+        'title' => 'Server neu installieen',
+        'reinstall-started' => 'Dein Server hat den Neuinstallationsprozess begonnen.',
+        'confirm-reinstallation' => 'Bestätige die Neuinstallation des Servers',
+        'yes-reinstall' => 'Ja, Server neu installieren',
+        'are-you-sure' => 'Dein Server wird angehalten und einige Dateien können während dieses Vorgangs gelöscht oder geändert werden. Bist du sicher, dass du fortfahren möchtest?',
+        'desc-1' => 'Wenn du deinen Server neu installierst, wird er angehalten und das Installationsskript, mit dem er ursprünglich eingerichtet wurde, wird erneut ausgeführt.',
+        'desc-2' => 'Einige Dateien können während dieses Vorgangs gelöscht oder verändert werden. Bitte sichere deine Daten, bevor du fortfährst.',
+        'reinstall-server' => 'Server neu installieren',
     ],
 ];
