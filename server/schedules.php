@@ -72,7 +72,7 @@ return [
         'Schritt-Werte' => 'Schritt-Werte',
     ],
     'task' => [
-        'message' => 'Ein Sicherungsauftrag kann nicht erstellt werden, wenn das Sicherungslimit des Servers auf 0 gesetzt ist.'
+        'message' => 'Ein Sicherungsauftrag kann nicht erstellt werden, wenn das Sicherungslimit des Servers auf 0 gesetzt ist.',
         'edit-task' => 'Aufgabe bearbeiten',
         'save-changes' => 'Änderungen speichern',
         'create-task' => 'Aufgabe erstellen',

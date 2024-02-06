@@ -2,7 +2,7 @@
 
 return [
     'account-overview' => 'Kontoübersicht',
-    'twofactor-messagebox' => 'In deinem Konto muss die Zwei-Faktor-Authentifizierung aktiviert sein, um fortfahren zu können.'
+    'twofactor-messagebox' => 'In deinem Konto muss die Zwei-Faktor-Authentifizierung aktiviert sein, um fortfahren zu können.',
     'apikey' => 'API-Schlüssel',
     'sshkey' => 'SSH-Schlüssel',
 

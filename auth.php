@@ -17,7 +17,7 @@ return [
     'forgot' => [
         'title' => 'Passwort zurückfordern',
         'email' => 'E-Mail',
-        'email-description' => 'Gib deine Konto-E-Mail-Adresse ein, um Anweisungen zum Zurücksetzen deines Passworts zu erhalten.'
+        'email-description' => 'Gib deine Konto-E-Mail-Adresse ein, um Anweisungen zum Zurücksetzen deines Passworts zu erhalten.',
         'send-email' => 'E-Mail senden',
         'return-to-login' => 'Zum Login zurückkehren',
 
