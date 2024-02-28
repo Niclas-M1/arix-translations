@@ -16,15 +16,15 @@ return [
     'no-databases' => 'Es sieht so aus, als hättest du keine Datenbanken.',
     'cannot-be-created' => 'Für diesen Server können keine Datenbanken erstellt werden.',
     'confirm-deletion' => 'Bestätige die Löschung der Datenbank.',
-    'delete-description-1' => 'Das Löschen einer Datenbank ist eine permanente Aktion, die nicht rückgängig gemacht werden kann. Damit wird die Datenbank endgültig gelöscht.',
-    'delete-description-2' => 'Datenbank und alle zugehörigen Daten werden gelöscht.',
+    'delete-description-1' => 'Das Löschen einer Datenbank ist eine permanente Aktion, sie kann nicht rückgängig gemacht werden. Damit wird die ',
+    'delete-description-2' => 'Datenbank und alle zugehörigen Daten endgültig gelöscht.',
     'confirm-database-name' => 'Bestätige den Datenbanknamen',
     'confirm-database-description' => 'Gib den Datenbanknamen ein, um die Löschung zu bestätigen.',
     'delete-database' => 'Datenbank löschen',
     'rotate-password' => 'Passwort rotieren',
     'database-details' => 'Datenbank Details',
-    'cancel' => 'abbrechen',
-    'close' => 'schließen',
+    'cancel' => 'Abbrechen',
+    'close' => 'Schließen',
 
     'create' => [
         'title' => 'Neue Datenbank erstellen',
@@ -32,7 +32,7 @@ return [
         'name-description' => 'Ein beschreibender Name für deine Datenbankinstanz.',
         'connection-from' => 'Verbindung von',
         'connection-from-description' => 'Von wo aus Verbindungen zugelassen werden sollen. Leer lassen, um Verbindungen von überall her zuzulassen.',
-        'cancel' => 'abbrechen',
+        'cancel' => 'Abbrechen',
         'create-database' => 'Datenbank erstellene'
     ]
 ];
