@@ -15,7 +15,7 @@ return [
         'title' => 'Serverinformationen bearbeiten',
         'server-name' => 'Servername',
         'server-description' => 'Serverbeschreibung',
-        'save' => 'speichern',
+        'save' => 'Speichern',
     ],
 
     'debug' => [
