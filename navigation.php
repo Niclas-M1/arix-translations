@@ -6,7 +6,7 @@ return [
     'enter-name-uuid-allocation' => 'Gib einen Servernamen, eine uuid oder eine Zuordnung ein, um mit der Suche zu beginnen.',
     'at-least-three-characters' => 'Bitte gib mindestens drei Zeichen ein, um mit der Suche zu beginnen.',
     'select-a-server' => 'Wähle einen Server aus',
-    'no-servers' => 'keine Server',
+    'no-servers' => 'Keine Server',
     'supportcenter' => 'Support',
 
     'servers' => 'Server',
@@ -31,7 +31,7 @@ return [
     'account-overview' => 'Kontoübersicht',
     'admin-area' => 'Verwaltungsbereich',
     'account-activity' => 'Kontoaktivitäty',
-    'dark-light-mode' => 'heller/dunkler Modus',
+    'dark-light-mode' => 'Heller/dunkler Modus',
     'logout' => 'Abmelden',
 
 ];
