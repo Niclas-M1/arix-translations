@@ -15,9 +15,9 @@ return [
     ],
 
     'update-email' => [
-        'isUpdated' => 'Deine primäre E-Mail wurde aktualisiert',
-        'update' => 'E-Mail aktualisieren',
-        'email' => 'E-Mail',
+        'isUpdated' => 'Deine primäre E-Mail-Adresse wurde aktualisiert',
+        'update' => 'E-Mail-Adresse aktualisieren',
+        'email' => 'E-Mail-Adresse',
         'confirm' => 'Passwort bestätigen',
     ],
 
@@ -34,10 +34,10 @@ return [
 
     'twofactor' => [
         'title' => 'Zwei-Faktor-Authentifizierung',
-        'isEnabled' => 'Die Zwei-Schritt-Verifizierung ist derzeit in deinem Konto aktiviert.',
-        'isDisabled' => 'In deinem Konto ist die Zwei-Schritt-Verifizierung derzeit nicht aktiviert. Klicke auf die Schaltfläche unten, um mit der Konfiguration zu beginnen.',
-        'disable' => 'Two-Step deaktivieren',
-        'enable' => 'Aktiviere die Zwei-Schritt-Verifizierung',
+        'isEnabled' => 'Die Zwei-Schritt-Verifizierung ist derzeit für dein Konto aktiviert.',
+        'isDisabled' => 'Für dein Konto ist die Zwei-Schritt-Verifizierung derzeit nicht aktiviert. Klicke auf die Schaltfläche unten, um mit der Konfiguration zu beginnen.',
+        'disable' => 'Zwei-Schritt-Verifizierung deaktivieren',
+        'enable' => 'Zwei-Schritt-Verifizierung aktivieren',
         
         'disable-dialog' => [
             'password' => 'Passwort',
@@ -69,8 +69,8 @@ return [
 
         'delete-api-key' => 'API-Schlüssel löschen',
         'delete-key' => 'Schlüssel löschen',
-        'all-requests-invalidated-1' => 'Alle Anfragen, die den',
-        'all-requests-invalidated-2' => 'Der Schlüssel wird für ungültig erklärt.',
+        'all-requests-invalidated-1' => 'Alle Anfragen mit dem',
+        'all-requests-invalidated-2' => 'Schlüssel werden für ungültig erklärt.',
         'loading' => 'Loading...',
         'no-key-found' => 'Für dieses Konto existieren keine API-Schlüssel.',
         'last-used' => 'Zuletzt verwendet',
@@ -91,8 +91,8 @@ return [
         'deleteForm' => [
             'delete-ssh-key' => 'SSH-Schlüssel löschen',
             'delete-key' => 'Schlüssel löschen',
-            'will-invalidate-1' => 'Entfernen des',
-            'will-invalidate-2' => 'Durch das Entfernen des SSH-Schlüssels wird seine Verwendung im Panel ungültig.',
+            'will-invalidate-1' => 'Durch das Entfernen des',
+            'will-invalidate-2' => 'SSH-Schlüssels wird seine Verwendung im Panel ungültig.',
         ],
     ],
 
