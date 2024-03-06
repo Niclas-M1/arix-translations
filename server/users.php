@@ -3,17 +3,17 @@
 return [
     'title' => 'Nutzer',
     'manage-subusers' => 'Unterbenutzer verwalten',
-    'new-user' => 'neuer Nutzer',
+    'new-user' => 'Neuer Nutzer',
 
     'no-users' => 'Es scheint so, als hättest du keine Unterbenutzer.',
 
     'name' => 'Name',
-    'email' => 'E-Mail',
+    'email' => 'E-Mail-Adresse',
     '2FA-enabled' => '2FA aktiviert',
     'creation-date' => 'Erstellungsdatum',
     'modify-permissions' => 'Berechtigungen anpassen',
 
-    'user-email' => 'Nutzer E-Mail',
+    'user-email' => 'Nutzer E-Mail-Adresse',
     'user-email-description' => 'Gib die E-Mail-Adresse des Benutzers ein, den du als Unterbenutzer für diesen Server einladen möchtest.',
 
     'modify-permissions-for' => 'Berechtigungen bearbeiten für',
@@ -21,7 +21,7 @@ return [
     'create-new-subuser' => 'neuen Unterbenutzer anlegen',
     'must-not-exceed' => 'E-Mail-Adressen dürfen nicht länger als 191 Zeichen sein.',
     'valid-email' => 'Eine gültige E-Mail Adresse muss angegeben werden.',
-    'save' => 'speichern',
+    'save' => 'Speichern',
     'invite-user' => 'Nutzer einladen',
 
     'only-permissions-you-assigned' => 'Beim Anlegen oder Ändern anderer Benutzer können nur die Berechtigungen ausgewählt werden, die deinem Konto derzeit zugewiesen sind.',

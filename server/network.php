@@ -2,9 +2,9 @@
 
 return[
     'network' => 'Netzwerk',
-    'manage-allocation' => 'Allocation verwalten',
-    'create-allocation' => 'Allocation anlegen',
-    'currently-using' => 'Du nutzt gerade {{aktuell}} der {{max}} erlaubten Allocationen für diesen Server.',
+    'manage-allocation' => 'Zuweisung verwalten',
+    'create-allocation' => 'Zusweisung anlegen',
+    'currently-using' => 'Du nutzt gerade {{current}} der {{max}} erlaubten Zusweisungen für diesen Server.',
 
     'IP' => 'IP',
     'port' => 'Port',
@@ -12,7 +12,7 @@ return[
     'primary' => 'Primär',
     'make-primary' => 'Primär machen',
 
-    'remove-allocation' => 'Allocation entfernen',
-    'remove-allocation-description' => 'Diese Allocation wird sofort von deinem Server entfernt.',
-    'delete' => 'löschen'
+    'remove-allocation' => 'Zusweisung entfernen',
+    'remove-allocation-description' => 'Diese Zusweisung wird sofort von deinem Server entfernt.',
+    'delete' => 'Löschen'
 ];

@@ -12,13 +12,13 @@ return[
     'checksum' => 'Prüfsumme',
 
     'failed' => 'Fehlgeschlagen',
-    'continue' => 'weiter',
+    'continue' => 'Weiter',
 
-    'download' => 'herunterladen',
-    'restore' => 'wiederherstellen',
-    'lock' => 'sperren',
-    'unlock' => 'freischalten',
-    'delete' => 'löschen',
+    'download' => 'Herunterladen',
+    'restore' => 'Wiederherstellen',
+    'lock' => 'Sperren',
+    'unlock' => 'Freischalten',
+    'delete' => 'Löschen',
 
     'limit-is-0' => 'Für diesen Server können keine Backups erstellt werden, da das Backup-Limit auf 0 gesetzt ist.',
     'try-going-back' => 'Sieht so aus, als hätten wir keine Backups mehr, die wir dir zeigen können. Geh eine Seite zurück.',
@@ -34,7 +34,7 @@ return[
         'backup-name-description' => 'Falls angegeben, der Name, der als Referenz für dieses Backup verwendet werden soll.',
         'ignored-files-directories' => 'Ignorierte Dateien & Verzeichnisse',
         'ignored-files-directories-description' => 'Gib die Dateien oder Ordner ein, die bei der Erstellung dieses Backups ignoriert werden sollen. Lass das Feld leer, um den Inhalt der Datei .pteroignore im Stammverzeichnis des Servers zu verwenden, falls vorhanden. Neben der Negierung einer Regel durch das Voranstellen eines Ausrufezeichens vor den Pfad werden auch Platzhalter für Dateien und Verzeichnisse unterstützt.',
-        'locked' => 'gesperrt',
+        'locked' => 'Gesperrt',
         'locked-description' => 'Verhindert, dass dieses Backup gelöscht wird, bis sie explizit entsperrt wird.',
         'start' => 'Backup starten',
     ]
