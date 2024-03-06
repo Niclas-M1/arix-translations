@@ -29,7 +29,7 @@ return [
     'configuration' => 'Konfiguration',
 
     'account-overview' => 'Kontoübersicht',
-    'admin-area' => 'Verwaltungsbereich',
+    'admin-area' => 'Adminbereich',
     'account-activity' => 'Kontoaktivitäty',
     'dark-light-mode' => 'Heller/dunkler Modus',
     'logout' => 'Abmelden',
